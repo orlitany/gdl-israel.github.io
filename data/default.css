@@ -254,3 +254,8 @@ tr.row_type_A td {
 tr.row_type_B td {
 	padding: 10px 10px;
 }
+
+.speakers li{
+    text-align: left;    
+  }
+
